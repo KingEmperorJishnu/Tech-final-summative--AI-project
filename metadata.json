@@ -1,0 +1,7 @@
+{
+  "name": "Can I Read It?-Tech summative",
+  "description": "AI letter reader",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
